@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    color: #000;
+    background-color:transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+    height: 20px;
+    width: 100px;
+}
+
+button:hover{
+    color: #000000;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: black;
+    box-shadow:0 0 25px aqua;
+    height: 20px;
+    width: 100px;
+}
